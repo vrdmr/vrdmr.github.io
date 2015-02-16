@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Blog</title>
+    <link>http://vrdmr.github.io/www/Blog</link>
+    <description>Duis nonsequ ismodol oreetuer iril etin dolore facidunt, vullup tat volore consecte dolesed ar se veliter iure te. Eliquatuero dip etiros numsan vent lam, conum zzrit la iam iure nonsen dre exeril ad te facip eugait lametue consecte dolesed et dolor sevelit ver adionse magnisc do conulla mconse ming ex ent am, quat velenit exerci tate duipsusci et landrem zzriuscinim.</description>
+    <item>
+      <title>Hello World!</title>
+      <link>http://vrdmr.github.io/www/Blog/Entries/2015/2/15_Hello_World%21.html</link>
+      <guid isPermaLink="false">db48fd0d-0b28-424b-a11b-62b1508e65d8</guid>
+      <pubDate>Sun, 15 Feb 2015 17:25:48 -0800</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://vrdmr.github.io/www/Blog/Entries/2015/2/15_Hello_World%21.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, y</iweb:dateFormat>
+    <iweb:baseURL>http://vrdmr.github.io/www/Blog</iweb:baseURL>
+    <iweb:maximumSummaryItems>10</iweb:maximumSummaryItems>
+  </channel>
+</rss>

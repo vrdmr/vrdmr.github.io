@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Blog</title>
+    <link>http://vrdmr.github.io/www/Blog</link>
+    <description>Duis nonsequ ismodol oreetuer iril etin dolore facidunt, vullup tat volore consecte dolesed ar se veliter iure te. Eliquatuero dip etiros numsan vent lam, conum zzrit la iam iure nonsen dre exeril ad te facip eugait lametue consecte dolesed et dolor sevelit ver adionse magnisc do conulla mconse ming ex ent am, quat velenit exerci tate duipsusci et landrem zzriuscinim.</description>
+    <item>
+      <title>Hello World!</title>
+      <link>http://vrdmr.github.io/www/Blog/Entries/2015/2/15_Hello_World%21.html</link>
+      <guid isPermaLink="false">db48fd0d-0b28-424b-a11b-62b1508e65d8</guid>
+      <pubDate>Sun, 15 Feb 2015 17:25:48 -0800</pubDate>
+      <description>Eliquatuero dip etiros numsan vent lam, conum zzrit la iam iure nonsen dre exeril ad te facip eugait lametue dolesed et dolor aut sevelit ver adionse magnisc tatmmy niam dolorti teed dolor estrud dunt do conulla mconse utin ming, quat velenit duipsusci et landrem zzriuscinim nullaorem. Duis nonsequ ismodol oreetuer iril et dolore facidunt, vullup tat volore consecte quatet blan henim exer aute enit alit, veliqua. &lt;br/&gt;Uptat prat lut apolut iriliquat, quis alisl irilitam irillum augue zzrit, verosto et consequ ismodit iriuscin ello dionsequi doleniam zzriure consed del dolortie ex eraesto la at augait praesto od tat dunt lum ametue. Uptat prat lutpat lut iriliquat, quis alisl irilit am irillum at niam zzrit, verosto consequ ismodit iriuscin el dolorero dionsequi tie veliqui exerit inis eae feugue feum irilisit lam doleniam zzriure consed del dolortie dolortio craesto odoluptat la at augait praesto od tat dunt lum ametue doluptat. Ut praestrud min el digniat voluptat lore et, veniscilla comy nim ad magna commodo lessi.</description>
+      <iweb:image href="Media/object015.jpg"></iweb:image>
+      <iweb:comment enabled="0" count="0" link="http://vrdmr.github.io/www/Blog/Entries/2015/2/15_Hello_World%21.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, y</iweb:dateFormat>
+    <iweb:baseURL>http://vrdmr.github.io/www/Blog</iweb:baseURL>
+    <iweb:maximumSummaryItems>10</iweb:maximumSummaryItems>
+  </channel>
+</rss>
