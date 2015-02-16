@@ -4,12 +4,34 @@
 .style_1 {
     padding: 0px;
 }
+.style_2 {
+    padding: 0px;
+}
+.style_External_653_111 {
+    position: relative;
+}
+.style_3 {
+    color: rgb(0, 0, 0);
+    font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 10px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing:     0.05em;
+    line-height: 20px;
+    opacity: 1.00;
+    vertical-align: -2px;
+}
+.style_4 {
+    line-height: 20px;
+    vertical-align: -1px;
+}
+.style_External_458_108 {
+    position: relative;
+}
 .style_SkipStroke_2 {
     background: transparent;
     opacity: 1.00;
-}
-.style_2 {
-    padding: 10px;
 }
 .style_SkipStroke {
     background: transparent url(Mod_menu_bar.jpg) repeat scroll top left;
@@ -19,24 +41,28 @@
     background: transparent;
     opacity: 1.00;
 }
-.style_External_462_56 {
-    position: relative;
-}
-.style_External_653_111 {
-    position: relative;
-}
 .style_SkipStroke_3 {
-    background: rgb(219, 229, 226);
+    background: transparent;
     opacity: 1.00;
+}
+.style_External_458_20 {
+    position: relative;
 }
 .style_SkipStroke_4 {
     background: transparent;
     opacity: 1.00;
 }
-.style_External_462_274 {
+.style_SkipStroke_5 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_External_458_195 {
     position: relative;
 }
-.style_External_136_225 {
+.style_External_229_18 {
+    position: relative;
+}
+.style_External_228_18 {
     position: relative;
 }
 .Body {
@@ -55,6 +81,28 @@
     margin-top: 0px;
     opacity: 1.00;
     padding-bottom: 10px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.Date {
+    color: rgb(146, 146, 146);
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    font-size: 11px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 13px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
     padding-top: 0px;
     text-align: left;
     text-decoration: none;
@@ -83,17 +131,66 @@
     text-indent: 0px;
     text-transform: uppercase;
 }
-.Normal {
-    padding: 16px;
+.Next {
+    color: rgb(18, 132, 186);
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    font-size: 11px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 20px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: right;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: uppercase;
+    vertical-align: -1px;
 }
 .Normal_External_653_111 {
     position: relative;
 }
-.Normal_External_462_56 {
+.Normal {
+    padding: 16px;
+}
+.Normal_External_458_195 {
     position: relative;
 }
-.Normal_External_462_274 {
+.Normal_External_458_20 {
     position: relative;
+}
+.Normal_External_458_108 {
+    position: relative;
+}
+.Previous {
+    color: rgb(18, 132, 186);
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    font-size: 11px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 20px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: uppercase;
+    vertical-align: -1px;
 }
 .Quote {
     color: rgb(18, 132, 186);
@@ -143,6 +240,10 @@
     background: transparent;
     opacity: 1.00;
 }
+.graphic_generic_datefield_textbox_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
 .graphic_generic_header_textbox_style_default_SkipStroke {
     background: transparent url(Mod_menu_bar.jpg) repeat scroll top left;
     opacity: 1.00;
@@ -162,7 +263,13 @@
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_136_225 {
+.graphic_textbox_layout_style_default_External_136_162 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_229_18 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_228_18 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {

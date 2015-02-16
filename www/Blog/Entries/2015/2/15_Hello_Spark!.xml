@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="BF56FCB8-E824-4562-BFD4-177FE282128A">
+  <lastEdited clientType="local-build-20150215" date="2015-02-16 02:14:02 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>My Blog</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Eliquatuero dip etiros numsan vent lam, conum zzrit la iam iure nonsen dre exeril ad te facip eugait lametue dolesed et dolor aut sevelit ver adionse magnisc tatmmy niam dolorti teed dolor estrud dunt do conulla mconse utin ming, quat velenit duipsusci et landrem zzriuscinim nullaorem. Duis nonsequ ismodol oreetuer iril et dolore facidunt, vullup tat volore consecte quatet blan henim exer aute enit alit, veliqua. &#xD;Uptat prat lut apolut iriliquat, quis alisl irilitam irillum augue zzrit, verosto et consequ ismodit iriuscin ello dionsequi doleniam zzriure consed del dolortie ex eraesto la at augait praesto od tat dunt lum ametue. Uptat prat lutpat lut iriliquat, quis alisl irilit am irillum at niam zzrit, verosto consequ ismodit iriuscin el dolorero dionsequi tie veliqui exerit inis eae feugue feum irilisit lam doleniam zzriure consed del dolortie dolortio craesto odoluptat la at augait praesto od tat dunt lum ametue doluptat. Ut praestrud min el digniat voluptat lore et, veniscilla comy nim ad magna commodo lessi.</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Hello Spark!</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="15_Hello_Spark%21_files/shapeimage_1.png" left="0px" top="0px" width="393px" height="168px"/>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Sunday, February 15, 2015</richText>
+  </textBox>
+</content>
