@@ -26,6 +26,20 @@
     text-indent: 0px;
     text-transform: none;
 }
+.style_2 {
+    padding: 0px;
+}
+.style_External_653_111 {
+    position: relative;
+}
+.style_3 {
+    font-family: 'Helvetica-Bold', 'Helvetica', 'Arial', sans-serif;
+    font-size: 11px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 14px;
+}
 .style_SkipStroke_2 {
     background: transparent;
     opacity: 1.00;
@@ -34,18 +48,9 @@
     background: transparent url(Mod_menu_bar.jpg) repeat scroll top left;
     opacity: 1.00;
 }
-.style_External_300_108 {
-    position: relative;
-}
 .style_SkipStroke_1 {
     background: transparent;
     opacity: 1.00;
-}
-.style_2 {
-    padding: 0px;
-}
-.style_External_653_111 {
-    position: relative;
 }
 .style_SkipStroke_3 {
     background: transparent;
@@ -55,7 +60,14 @@
     background: transparent;
     opacity: 1.00;
 }
+.style_SkipStroke_5 {
+    background: transparent;
+    opacity: 1.00;
+}
 .style_External_136_580 {
+    position: relative;
+}
+.style_External_300_108 {
     position: relative;
 }
 .style_External_300_195 {
@@ -127,16 +139,16 @@
     text-indent: 0px;
     text-transform: uppercase;
 }
-.Normal {
-    padding: 16px;
-}
 .Normal_External_653_111 {
     position: relative;
 }
-.Normal_External_300_108 {
-    position: relative;
+.Normal {
+    padding: 16px;
 }
 .Normal_External_300_195 {
+    position: relative;
+}
+.Normal_External_300_108 {
     position: relative;
 }
 .Sidebar_Body {
@@ -235,19 +247,43 @@
     background: transparent;
     opacity: 1.00;
 }
-.bumper {
+#widget1 a:visited {
+    color: rgb(18, 132, 186);
+    text-decoration: none;
+}
+#widget0 a:visited {
+    color: rgb(18, 132, 186);
+    text-decoration: none;
+}
+#widget1 a:hover {
+    color: rgb(181, 181, 181);
+    text-decoration: none;
+}
+.spacer {
     font-size: 1px;
     line-height: 1px;
+}
+#widget3 a:visited {
+    color: rgb(18, 132, 186);
+    text-decoration: none;
+}
+#widget2 a:visited {
+    color: rgb(18, 132, 186);
+    text-decoration: none;
+}
+#widget3 a:hover {
+    color: rgb(181, 181, 181);
+    text-decoration: none;
 }
 .tinyText {
     font-size: 1px;
     line-height: 1px;
 }
-#widget0 a:hover {
+#widget4 a:hover {
     color: rgb(181, 181, 181);
     text-decoration: none;
 }
-#widget0 a:visited {
+#widget4 a:visited {
     color: rgb(18, 132, 186);
     text-decoration: none;
 }
@@ -255,9 +291,33 @@
     color: rgb(18, 132, 186);
     text-decoration: none;
 }
-.spacer {
+#widget1 a {
+    color: rgb(18, 132, 186);
+    text-decoration: none;
+}
+#widget0 a:hover {
+    color: rgb(181, 181, 181);
+    text-decoration: none;
+}
+#widget2 a {
+    color: rgb(18, 132, 186);
+    text-decoration: none;
+}
+#widget2 a:hover {
+    color: rgb(181, 181, 181);
+    text-decoration: none;
+}
+.bumper {
     font-size: 1px;
     line-height: 1px;
+}
+#widget3 a {
+    color: rgb(18, 132, 186);
+    text-decoration: none;
+}
+#widget4 a {
+    color: rgb(18, 132, 186);
+    text-decoration: none;
 }
 body { 
     -webkit-text-size-adjust: none;
