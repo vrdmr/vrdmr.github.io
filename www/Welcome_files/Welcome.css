@@ -181,15 +181,15 @@ a:hover {
     color: rgb(181, 181, 181);
     text-decoration: none;
 }
-.bumper {
-    font-size: 1px;
-    line-height: 1px;
-}
-.tinyText {
-    font-size: 1px;
-    line-height: 1px;
+#widget1 a {
+    color: rgb(18, 132, 186);
+    text-decoration: none;
 }
 #widget0 a:hover {
+    color: rgb(181, 181, 181);
+    text-decoration: none;
+}
+#widget1 a:hover {
     color: rgb(181, 181, 181);
     text-decoration: none;
 }
@@ -201,7 +201,19 @@ a:hover {
     color: rgb(18, 132, 186);
     text-decoration: none;
 }
+#widget1 a:visited {
+    color: rgb(18, 132, 186);
+    text-decoration: none;
+}
 .spacer {
+    font-size: 1px;
+    line-height: 1px;
+}
+.tinyText {
+    font-size: 1px;
+    line-height: 1px;
+}
+.bumper {
     font-size: 1px;
     line-height: 1px;
 }

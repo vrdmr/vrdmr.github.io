@@ -231,6 +231,10 @@ a:hover {
     color: rgb(181, 181, 181);
     text-decoration: none;
 }
+#widget2 a:visited {
+    color: rgb(18, 132, 186);
+    text-decoration: none;
+}
 .tinyText {
     font-size: 1px;
     line-height: 1px;
@@ -302,6 +306,10 @@ a:hover {
     text-decoration: none;
     text-transform: none;
 }
+#widget2 a {
+    color: rgb(18, 132, 186);
+    text-decoration: none;
+}
 #widget1 .Summary_Body {
     color: rgb(81, 81, 81);
     font-family: 'Helvetica', 'Arial', sans-serif;
@@ -318,6 +326,10 @@ a:hover {
     text-align: left;
     text-decoration: none;
     text-transform: none;
+}
+#widget2 a:hover {
+    color: rgb(181, 181, 181);
+    text-decoration: none;
 }
 body { 
     -webkit-text-size-adjust: none;
