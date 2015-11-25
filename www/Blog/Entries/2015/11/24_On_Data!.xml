@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="BF56FCB8-E824-4562-BFD4-177FE282128A">
+  <lastEdited clientType="local-build-20151124" date="2015-11-25 02:35:04 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>My Blog</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Data is the new currency.&#xD;Today, almost every company, big or small, is focused on making use of Data to do something &#x201C;cool&#x201D; with it. This trend picked up after the technologies to support storage and processing became general purpose. Tools like Hadoop and AWS helped during infancy, and now are driven by the way Machine Learning tools are being open-sourced by big companies, competitions and open datasets. These are interesting times for data scientists and data engineers.&#xD;Most of the people know about the above - then why this post? Because I am excited by these developments and hope to write more about things I am interested in, in subsequent posts. Will keep me motivated. :)</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>On Data!</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="24_On_Data%21_files/shapeimage_1.png" left="0px" top="0px" width="300px" height="225px"/>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Tuesday, November 24, 2015</richText>
+  </textBox>
+</content>
