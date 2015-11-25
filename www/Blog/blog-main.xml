@@ -5,22 +5,22 @@
     <link>http://vrdmr.github.io/www/Blog</link>
     <description>Thoughts, experiences, and examples.</description>
     <item>
+      <title>On Data!</title>
+      <link>http://vrdmr.github.io/www/Blog/Entries/2015/11/24_On_Data%21.html</link>
+      <guid isPermaLink="false">32030452-9694-46ee-a724-19d50fa31f03</guid>
+      <pubDate>Tue, 24 Nov 2015 17:37:11 -0800</pubDate>
+      <description>Data is the new currency.&lt;br/&gt;Today, almost every company, big or small, is focused on making use of Data to do something &#x201C;cool&#x201D; with it. This trend picked up after the technologies to support storage and processing became general purpose. Tools like Hadoop and AWS helped during infancy, and now are driven by the way Machine Learning tools are being open-sourced by big companies, competitions and open datasets. These are interesting times for data scientists and data engineers.&lt;br/&gt;Most of the people know about the above - then why this post? Because I am excited by these developments and hope to write more about things I am interested in, in subsequent posts. Will keep me motivated. :)</description>
+      <iweb:image href="Media/object003.jpg"></iweb:image>
+      <iweb:comment enabled="0" count="0" link="http://vrdmr.github.io/www/Blog/Entries/2015/11/24_On_Data%21.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
       <title>Motivation!</title>
       <link>http://vrdmr.github.io/www/Blog/Entries/2015/2/17_Motivation%21.html</link>
       <guid isPermaLink="false">3804a662-47ff-43cb-a045-ad4da443819d</guid>
       <pubDate>Tue, 17 Feb 2015 03:10:49 -0800</pubDate>
       <description>For me, Motivation is a currency everyone strives for. It is a rare resource and can be misunderstood for passion. Yes, they are very similar, but there is a very subtle difference in my dictionary. Passion is one of the motivator, counted towards one class of motivation. There can be other forms of motivations, driven by the background, environment, mental state and set goals.&lt;br/&gt;In my diary, there are four forms of motivations&lt;br/&gt;	&#x2022;	 Intrinsic Positive Motivation&lt;br/&gt;	&#x2022;	 Extrinsic Positive Motivation&lt;br/&gt;	&#x2022;	 Intrinsic Negative Motivation&lt;br/&gt;	&#x2022;	 Extrinsic Negative Motivation&lt;br/&gt;In all of the above, as you would have also guessed, IPM or Intrinsic Positive Motivation is what one would want to have the most. But as with all the rare things, there is one catch - It is not easy to be intrinsically motivated to do something of value. Many philosophers, thinkers and leaders have said a lot about this and we still have failed to find out why we lose this motivation. One of the potential reason can be due to our misunderstanding of money, and the greed that comes with it. Other reasons can be the failure to see past self and last but no way the least peer pressure of performing better in life than others in things which really do not matter to one.&lt;br/&gt;Getting Motivated!&lt;br/&gt;It is not very difficult to be motivated. It&#x2019;s all about a goal and the will to do it all for achieving it. Okay! I might sound over-optimistic and a little ignorant, but my answer would remain the same. Life is about setting and pursuing goals! Your would-be success is a function of that goal. And to define success, I&#x2019;ll take the definition given by the great Earl Nightingale - Success is the progressive realization of a worthy goal or ideal. So, if you want to change the world by helping more people, start doing it. If you want to help your parents, start helping them. All the complex things you want to do, can be broken down into simpler chunks and pursue.&lt;br/&gt;&lt;br/&gt;I&#x2019;ll leave you with one of my favorite speeches ever. Do watch it. :) </description>
-      <iweb:image href="Media/object000.jpg"></iweb:image>
+      <iweb:image href="Media/object001.jpg"></iweb:image>
       <iweb:comment enabled="0" count="0" link="http://vrdmr.github.io/www/Blog/Entries/2015/2/17_Motivation%21.html#comment_layer"></iweb:comment>
-    </item>
-    <item>
-      <title>Hello Spark!</title>
-      <link>http://vrdmr.github.io/www/Blog/Entries/2015/2/15_Hello_Spark%21.html</link>
-      <guid isPermaLink="false">75ee0f95-2376-4a2b-a614-1863747bfa35</guid>
-      <pubDate>Sun, 15 Feb 2015 18:06:12 -0800</pubDate>
-      <description>Hands-on Spark! More coming!</description>
-      <iweb:image href="Media/object038.png"></iweb:image>
-      <iweb:comment enabled="0" count="0" link="http://vrdmr.github.io/www/Blog/Entries/2015/2/15_Hello_Spark%21.html#comment_layer"></iweb:comment>
     </item>
     <item>
       <title>Hello World!</title>
