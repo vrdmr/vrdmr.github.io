@@ -4,12 +4,12 @@
 // Global Components
 
 body {
-	.serif;
+	.serif-font;
 	font-size: 20px;
 	color: @gray-dark;
 }
 
-// -- Typography
+// Typography
 
 p {
 	line-height: 1.5;
@@ -25,7 +25,7 @@ h3,
 h4,
 h5,
 h6 {
-	.sans-serif;
+	.sans-serif-font;
 	font-weight: 800;
 }
 
@@ -33,7 +33,7 @@ a {
 	color: @gray-dark;
 	&:hover,
 	&:focus {
-		color: @brand-primary;
+		color: @theme-primary;
 	}
 }
 
@@ -45,7 +45,7 @@ a img {
 }
 
 blockquote {
-	color: @gray;
+	color: @gray-light;
 	font-style: italic;
 }
 
@@ -59,15 +59,22 @@ hr.small {
 // Navigation
 
 .navbar-custom {
-	background: white;
 	position: absolute;
 	top: 0;
 	left: 0;
 	width: 100%;
 	z-index: 3;
-	.sans-serif;
+	.sans-serif-font;
 	.navbar-brand {
 		font-weight: 800;
+	}
+	.navbar-header {
+		.navbar-toggle {
+			color: @gray-light;
+			font-weight: 800;
+			text-transform: uppercase;
+			font-size: 12px;
+		}
 	}
 	.nav {
 		li {
@@ -87,7 +94,7 @@ hr.small {
 			padding: 20px;
 			&:hover,
 			&:focus {
-				color: @white-faded;
+				color: fade(white, 80%);
 			}
 		}
 		.nav {
@@ -97,7 +104,7 @@ hr.small {
 					padding: 20px;
 					&:hover,
 					&:focus {
-						color: @white-faded;
+						color: fade(white, 80%);
 					}
 				}
 			}
@@ -128,7 +135,7 @@ hr.small {
 				color: @gray-dark;
 				&:hover,
 				&:focus {
-					color: @brand-primary;
+					color: @theme-primary;
 				}
 			}
 			.nav {
@@ -137,7 +144,7 @@ hr.small {
 						color: @gray-dark;
 						&:hover,
 						&:focus {
-							color: @brand-primary;
+							color: @theme-primary;
 						}
 					}
 				}
@@ -157,8 +164,8 @@ hr.small {
 // Header
 
 .intro-header {
-	background: no-repeat center center;
-	background-color: @gray;
+	background-color: @gray-light; 
+	background: no-repeat center center; 
 	background-attachment: scroll;
 	.background-cover;
 	// NOTE: Background images are set within the HTML using inline CSS!
@@ -183,7 +190,7 @@ hr.small {
 			font-size: 24px;
 			line-height: 1.1;
 			display: block;
-			.sans-serif;
+			.sans-serif-font;
 			font-weight: 300;
 			margin: 10px 0 0;
 		}
@@ -203,13 +210,13 @@ hr.small {
 			display: block;
 		}
 		.subheading {
-			.sans-serif;
+			.sans-serif-font;
 			font-size: 24px;
 			margin: 10px 0 30px;
 			font-weight: 600;
 		}
 		.meta {
-			.serif;
+			.serif-font;
 			font-style: italic;
 			font-weight: 300;
 			font-size: 20px;
@@ -236,7 +243,7 @@ hr.small {
 		&:hover,
 		&:focus {
 			text-decoration: none;
-			color: @brand-primary;
+			color: @theme-primary;
 		}
 		> .post-title {
 			font-size: 30px;
@@ -250,7 +257,7 @@ hr.small {
 		}
 	}
 	> .post-meta {
-		color: @gray;
+		color: @gray-light;
 		font-size: 18px;
 		font-style: italic;
 		margin-top: 0;
@@ -259,7 +266,7 @@ hr.small {
 			color: @gray-dark;
 			&:hover,
 			&:focus {
-				color: @brand-primary;
+				color: @theme-primary;
 				text-decoration: underline;
 			}
 		}
@@ -312,7 +319,7 @@ footer {
 	position: relative;
 	margin-bottom: 0;
 	padding-bottom: 0.5em;
-	border-bottom: 1px solid @gray-light;
+	border-bottom: 1px solid @gray-lighter;
 	input,
 	textarea {
 		z-index: 1;
@@ -344,7 +351,7 @@ footer {
 	}
 	&::not(:first-child) {
 		padding-left: 14px;
-		border-left: 1px solid @gray-light;
+		border-left: 1px solid @gray-lighter;
 	}
 }
 
@@ -357,18 +364,18 @@ footer {
 
 .floating-label-form-group-with-focus {
 	label {
-		color: @brand-primary;
+		color: @theme-primary;
 	}
 }
 
 form .row:first-child .floating-label-form-group {
-	border-top: 1px solid @gray-light;
+	border-top: 1px solid @gray-lighter;
 }
 
 // Button Styles
 
 .btn {
-	.sans-serif;
+	.sans-serif-font;
 	text-transform: uppercase;
 	font-size: 14px;
 	font-weight: 800;
@@ -385,8 +392,8 @@ form .row:first-child .floating-label-form-group {
 .btn-default {
 	&:hover,
 	&:focus {
-		background-color: @brand-primary;
-		border: 1px solid @brand-primary;
+		background-color: @theme-primary;
+		border: 1px solid @theme-primary;
 		color: white;
 	}
 }
@@ -400,25 +407,21 @@ form .row:first-child .floating-label-form-group {
 	li {
 		> a,
 		> span {
-			.sans-serif;
+			.sans-serif-font;
 			text-transform: uppercase;
 			font-size: 14px;
 			font-weight: 800;
 			letter-spacing: 1px;
-			padding: 10px 5px;
+			padding: 15px 25px;
 			background-color: white;
 			border-radius: 0;
-			@media only screen and (min-width: 768px) {
-				font-size: 14px;
-				padding: 15px 25px;
-			}
 		}
 
 		> a:hover,
 		> a:focus {
 			color: white;
-			background-color: @brand-primary;
-			border: 1px solid @brand-primary;
+			background-color: @theme-primary;
+			border: 1px solid @theme-primary;
 		}
 	}
 
@@ -427,25 +430,25 @@ form .row:first-child .floating-label-form-group {
 		> a:hover,
 		> a:focus,
 		> span {
-			color: @gray;
+			color: @gray-light;
 			background-color: @gray-dark;
 			cursor: not-allowed;
 		}
 	}
 }
 
-// -- Highlight Color Customization
+// Highlight Color Customization
 
 ::-moz-selection {
 	color: white;
 	text-shadow: none;
-	background: @brand-primary;
+	background: @theme-primary;
 }
 
 ::selection {
 	color: white;
 	text-shadow: none;
-	background: @brand-primary;
+	background: @theme-primary;
 }
 
 img::selection {
@@ -459,5 +462,5 @@ img::-moz-selection {
 }
 
 body {
-	webkit-tap-highlight-color: @brand-primary;
+	-webkit-tap-highlight-color: @theme-primary;
 }
